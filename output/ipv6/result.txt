@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-03 18:45:41,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2026-02-05 18:46:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -196,8 +196,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=81ac3a9691673bbadc0
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549$订阅源
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
 广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
-广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8$订阅源
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474$订阅源
 贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0$订阅源
