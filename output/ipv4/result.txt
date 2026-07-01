@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-06-29 22:04:58,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
+2026-07-01 20:34:52,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://iptv.catvod.com/live.php?id=CCTV1&line=5$订阅源
@@ -45,10 +45,10 @@ CCTV-5,https://iptv.catvod.com/live.php?id=CCTV5&line=3$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=1$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=2$订阅源
 CCTV-5+,https://iptv.catvod.com/live.php?id=CCTV5%2B&line=3$订阅源
-CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
+CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
+CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=0ef9fb30ed6fddd913a3226264c374ac&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-6,https://live.264788.xyz/channel/cctv6?streamid=6679e65e7347bf23d1db5691a8f93888&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -148,14 +148,14 @@ CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=6553344335ee5b54198e5392
 CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
+广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=a8a6999dae6313a2788eff262b5873bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=e9986fb1fcfb651af467c03a233f8e8f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=cb79f80b1c81ba01a6cc0f96cb127c4a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=2650b27e8aa5dd88d003b77f0e759abc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=517b09b16a431a5fa7dbe1935d7a2400&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广东卫视,https://live.264788.xyz/channel/guangdongweishi?streamid=c56d46d73457533e94deb4c1049a7767&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
-广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=fd3b4ddfd1dabea05102cd13ed0320c1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=49b6a54b3a44f0e3fbfc565427d4615d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=59c87a5e81a0f7a4fb49e7efc361e6ed&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -164,6 +164,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 浙江卫视,https://live.264788.xyz/channel/zhejiangweishi?streamid=c754d2f5e3d33c503db0ce40bf7ebae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=2$订阅源
 浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&line=4$订阅源
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=8e9299121d7998c768bf5cca270f2956&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=3a2f9c81b8b580f1303e333f855c5f54&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=0828c5c3517aef9c72343736b2d9d1f9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -171,7 +172,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=e9d82e727780e80a83d0225fa0fa8dfe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=763a3d2b96259ea95b79897ae6de248d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 湖南卫视,https://live.264788.xyz/channel/hunanweishi?streamid=06d3f2007e0c04856fb9ea419bbd9cf9&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=41225e7b85c7ba5b42d4c3979cce5d73&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=14da0d2cdf18d9845e3d9d4fc51357e0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 北京卫视,https://live.264788.xyz/channel/beijingweishi?streamid=83e17d40a257c99cd03440142db1b4a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -212,6 +212,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=0d606a0ff89dc49b8efb489237c11095&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 重庆卫视,https://live.264788.xyz/channel/chongqingweishi?streamid=3154f54402f859ff850d544c66ba77ed&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86$订阅源
+东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=a98a89080092a7cf477ee2ef68844319&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=aa8142885ada622172731e7680cd83b7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=3433f27cf6adcff6f7d7ca24155aab41&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -219,7 +220,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=d5d7da9b3bb6bae0fe51c654812c073a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=1f254bac0e50a789df71841f98a0ea9a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=85aea482acc87c868b509dfc6299cc44&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-东方卫视,https://live.264788.xyz/channel/dongfangweishi?streamid=7245d9e90a18060f183b84e383e941a4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=4d90aad6479c0a0b75ec6c1bae2fe784&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=c03df89ae9846b79a770c4c369acb60e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 东南卫视,https://live.264788.xyz/channel/dongnanweishi?streamid=885a6a474f57bcf0bf6641441080e3d4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -284,6 +284,7 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 吉林卫视,https://live.264788.xyz/channel/jilinweishi?streamid=40319f88308709dba3ae469d0f63002e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=1$订阅源
 吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&line=2$订阅源
+江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=2e3c19907f83ee49962e7a3b1db2c093&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=01b71cbe218e3ae09ceb25b64aec1f33&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=380709c4c392f08f4dcd85c5bb49fac4&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -291,7 +292,6 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=1f708c4111f88ab499c8ef73b9f30902&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=532885846757ddf8f597ab4a3ca7101e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江苏卫视,https://live.264788.xyz/channel/jiangsuweishi?streamid=430ccd55b3374b7e3ccc7388e90566c8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=555198f31caa33506ac6abb70d788959&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=d954813b7f590cc97b38a2835158d960&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 江西卫视,https://live.264788.xyz/channel/jiangxiweishi?streamid=2edc93d44f6405ce3dc9d315ba6b4e5b&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -354,8 +354,8 @@ CCTV-17,https://iptv.catvod.com/live.php?id=CCTV17&line=1$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=1$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=2$订阅源
 陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&line=3$订阅源
-陕西卫视,http://192.151.150.154/live/snwshd.m3u8$订阅源
-陕西卫视,http://198.204.228.26/live/snwshd.m3u8$订阅源
+陕西卫视,http://107.150.60.122/live/snwshd.m3u8$订阅源
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
