@@ -1,9 +1,13 @@
 🕘️更新时间,#genre#
-2026-10-14 01:21:44,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
+2026-10-15 22:40:59,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
 CCTV-1,http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源
+CCTV-1,http://101.66.195.137:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-1,http://101.66.195.137:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-1,http://101.66.195.192:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
+CCTV-1,http://101.66.195.192:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-2,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv2hd$订阅源
 CCTV-2,http://173.208.212.130:8181/1080p/cctv2.m3u8$订阅源
@@ -38,8 +42,8 @@ CCTV-5,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5,http://198.204.228.26/live/cctv5hd.m3u8$订阅源
 CCTV-5+,http://198.204.228.26/live/cctv5p.m3u8$订阅源
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8$订阅源
-CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-5+,http://173.208.212.130:8181/720p/cctv5p.m3u8$订阅源
 CCTV-5+,http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8$订阅源
 CCTV-5+,http://207.56.13.146:81/cdnlive/cctv5p.m3u8$订阅源
@@ -129,8 +133,8 @@ CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=cc85018b83212f71155d47ec
 CCTV-16,https://live.264788.xyz/channel/cctv16?streamid=8eb5a3dee64a6f1b00b9eb5c7cd2573a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-16,http://198.204.228.26/live/cctv16hd.m3u8$订阅源
 CCTV-16,http://107.150.60.122/live/cctv16hd.m3u8$订阅源
-CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8$订阅源
-CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
+CCTV-16,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd$订阅源
+CCTV-16,http://192.151.150.154/live/cctv16hd.m3u8$订阅源
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=12e368efbd799e724c61530988786b16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=f8518c29f7faf4962aefc15ee3420fb0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 CCTV-17,https://live.264788.xyz/channel/cctv17?streamid=348c8c0c04a6d2b900e5a3bcb4af8ce1&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -228,7 +232,7 @@ CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8$订阅源
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=1a138e550cc9a42a93bd999c5e2e4f06&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=0f9c89dc7cf036736214c8f50951fcfe&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 甘肃卫视,https://live.264788.xyz/channel/gansuweishi?streamid=466083ee6981dccb38d23b5556b27f6e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
-甘肃卫视,http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub$订阅源
+甘肃卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=1679dfafa1bee407947d8c782276ba91&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 广西卫视,https://live.264788.xyz/channel/guangxiweishi?streamid=390c53f028cb41cd02b8456b2b2e1dab&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -308,7 +312,7 @@ CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8$订阅源
 内蒙古卫视,https://live.264788.xyz/channel/neimengguweishi?streamid=81a015dbecf3031d7d847b7a9b059f67&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 内蒙古卫视,http://198.204.228.26/live/nmgws.m3u8$订阅源
 内蒙古卫视,http://107.150.60.122/live/nmgws.m3u8$订阅源
-内蒙古卫视,http://38.75.136.137:98/gslb/dsdqpub/nmgws.m3u8?auth=testpub$订阅源
+内蒙古卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nmgws$订阅源
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=c5ab19386a4b4448aafa6d1eb94a4d4c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=da9d5125bcba51087052d52acfe0952f&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -340,15 +344,15 @@ CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8$订阅源
 山西卫视,https://live.264788.xyz/channel/shanxiweishi?streamid=3588853b57d954c33c7eef175200eae7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 山西卫视,http://198.204.228.26/live/sxwshd.m3u8$订阅源
 山西卫视,http://107.150.60.122/live/sxwshd.m3u8$订阅源
-山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
+山西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=dcafcf65d544d8a7b606c454d3f8ef47&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=e6497fe4c4d40b01fd715a2d181637a5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 陕西卫视,https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 陕西卫视,http://198.204.228.26/live/snwshd.m3u8$订阅源
 陕西卫视,http://107.150.60.122/live/snwshd.m3u8$订阅源
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub$订阅源
-陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub$订阅源
+陕西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd$订阅源
 陕西卫视,http://192.151.150.154/live/snwshd.m3u8$订阅源
+陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi?streamid=5386c588d4bbd34f863c7366b934f9d0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=21be5901ee81559c827dc84e46f26452&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
@@ -396,7 +400,7 @@ CCTV-17,http://198.204.228.26/live/cctv17hd.m3u8$订阅源
 新疆卫视,https://live.264788.xyz/channel/xinjiangweishi?streamid=342945bcfa42b0c38e26f3dbe372a06a&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 新疆卫视,http://198.204.228.26/live/xjws.m3u8$订阅源
 新疆卫视,http://107.150.60.122/live/xjws.m3u8$订阅源
-新疆卫视,http://38.75.136.137:98/gslb/dsdqpub/xjws.m3u8?auth=testpub$订阅源
+新疆卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=xjws$订阅源
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=0fb596dd22d0e6fbf7e347d81374ac88&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=fe7f665eb83ec0b1eebd4120b1a74d77&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
 云南卫视,https://live.264788.xyz/channel/yunnanweishi?streamid=59a7b5e496b1ed2af50a575e9081c7e7&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$订阅源
